@@ -1,0 +1,10 @@
+C:\Users\Asus\Desktop\HeroGame\HeroGame\bin\Debug\HeroGame.exe.config
+C:\Users\Asus\Desktop\HeroGame\HeroGame\bin\Debug\HeroGame.exe
+C:\Users\Asus\Desktop\HeroGame\HeroGame\bin\Debug\HeroGame.pdb
+C:\Users\Asus\Desktop\HeroGame\HeroGame\obj\Debug\HeroGame.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\HeroGame\HeroGame\obj\Debug\HeroGame.Form1.resources
+C:\Users\Asus\Desktop\HeroGame\HeroGame\obj\Debug\HeroGame.Properties.Resources.resources
+C:\Users\Asus\Desktop\HeroGame\HeroGame\obj\Debug\HeroGame.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\HeroGame\HeroGame\obj\Debug\HeroGame.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\HeroGame\HeroGame\obj\Debug\HeroGame.exe
+C:\Users\Asus\Desktop\HeroGame\HeroGame\obj\Debug\HeroGame.pdb
